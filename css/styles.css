@@ -1,0 +1,17 @@
+/*
+	Containers
+*/
+
+
+#bezier {
+	overflow: hidden;
+	position: relative;
+}
+#bezier #plane {
+	position: absolute;
+	left: -100px;
+}
+#bezier a.viewsource {
+	margin: 100px;
+	display: inline-block;
+}
